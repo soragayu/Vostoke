@@ -22,7 +22,7 @@ export default function Home() {
           見慣れたはずの三人の顔が、ほんのわずか――どこか、いつもと違うような気がする。<br />
           私はその感覚を振り払うように、深く息を吐いた。
         </p>
-        <Changeicon />
+        <Changeicon>キャラ選択</Changeicon>
       </div>
     </>
   );
