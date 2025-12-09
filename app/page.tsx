@@ -3,7 +3,7 @@ import Changeicon from '@/app/ui/components/ChangeIcon';
 export default function Home() {
   return (
     <>
-      <div className='bg-[url("/title.jpg")] bg-cover bg-center max-w-[414px] h-[100vh] mx-auto flex justify-center items-center'></div>
+      <div className='bg-[url("/title.jpg")] bg-cover bg-center max-w-[414px]  h-[100vh] mx-auto flex justify-center items-center'></div>
       <div className='bg-[rgba(0,0,0,1)] max-w-[414px] h-[10vh] mx-auto'></div>
       <div className='bg-[url("/background.png")] bg-cover bg-center max-w-[414px] h-[100vh] mx-auto p-15 pt-30 box-border flex flex-col justify-center items-center gap-5'>
         <p className='text-[0.7rem]'>
